@@ -1,0 +1,72 @@
+<trailer>
+  <dict size="10">
+
+    <key>Filter</key>
+    <value>
+      <literal>FlateDecode</literal>
+    </value>
+
+    <key>DecodeParms</key>
+    <value>
+      <dict size="2">
+        <key>Predictor</key>
+        <value>
+          <number>12</number>
+        </value>
+        <key>Columns</key>
+        <value>
+          <number>7</number>
+        </value>
+      </dict>
+    </value>
+
+    <key>ID</key>
+    <value>
+      <list size="2">
+        <string size="16">&#184;&#149;`&#128;oAX&#145;&#172;&#208;&#198;&#220;&#5;&#213;,&#166;</string>
+        <string size="16">i&#243;&#159;&#139;&#133;&#142;&#129;T&#6;ZvE&#229;&#150;&#230;&#230;</string>
+      </list>
+    </value>
+
+    <key>Root</key>
+    <value>
+      <ref id="7" />
+    </value>
+
+    <key>Type</key>
+    <value>
+      <literal>XRef</literal>
+    </value>
+
+    <key>W</key>
+    <value>
+      <list size="3">
+        <number>1</number>
+        <number>4</number>
+        <number>2</number>
+      </list>
+    </value>
+
+    <key>Info</key>
+    <value>
+      <ref id="8" />
+    </value>
+
+    <key>Size</key>
+    <value>
+      <number>16</number>
+    </value>
+
+    <key>Index</key>
+    <value>
+      <list size="2">
+        <number>0</number>
+        <number>16</number>
+      </list>
+    </value>
+
+    <key>Length</key>
+    <value><number>88</number></value>
+
+  </dict>
+</trailer>
