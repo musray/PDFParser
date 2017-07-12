@@ -1,8 +1,8 @@
 # PDFParser
 
 ## 参考：
-1. 一个使用pdfminer的[blog post](https://dzone.com/articles/pdf-reading)
-2. adobe官方的[pdf参考](http://www.adobe.com/devnet/pdf/pdf_reference.html)
+1. 一个pdfminer的使用参考[blog post](https://dzone.com/articles/pdf-reading)
+2. Adobe官方的[pdf参考](http://www.adobe.com/devnet/pdf/pdf_reference.html)
 3. 一个好像真的很适合我使用的library - [PyMuPDF](https://pythonhosted.org/PyMuPDF/annot.html#example)
 
 ## 神器 - `PyMuPDF`
